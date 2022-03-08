@@ -15,6 +15,7 @@
   - [Erlang](#erlang)
   - [GDScript](#gdscript)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [HolyC](#holyc)
@@ -126,9 +127,14 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 
+## HCL 
+
+- [podstream/infra](https://github.com/podstream/infra) - 
+
 ## HTML 
 
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [podstream/custom-nginx-ingress-errors](https://github.com/podstream/custom-nginx-ingress-errors) - 
 - [bullet-train-co/magic_test](https://github.com/bullet-train-co/magic_test) - 
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
 - [asciidoctor/asciidoctor-reveal.js](https://github.com/asciidoctor/asciidoctor-reveal.js) - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
@@ -234,6 +240,7 @@
 - [joric/jorne](https://github.com/joric/jorne) - Jorne is an extended Corne keyboard with extra keys for brackets and international layouts
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [podstream/pod-infra](https://github.com/podstream/pod-infra) - 
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
@@ -297,6 +304,7 @@
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [podstream/openfaas-templates](https://github.com/podstream/openfaas-templates) - Podstream OpenFaaS template store
+- [podstream/pod-functions](https://github.com/podstream/pod-functions) - All podcast functions
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
@@ -344,6 +352,8 @@
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
 - [AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui) - Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - No need to pre-install any prerequisites. Just install the gem and have platform-independent GUI that just works)
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [podstream/openfaas](https://github.com/podstream/openfaas) - OpenFaaS HTTP Client
+- [podstream/sign_request](https://github.com/podstream/sign_request) - An extensible implementation of http request signing spec draft for Ruby HTTP clients and servers.
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language
 - [chrisseaton/rhizome](https://github.com/chrisseaton/rhizome) - A JIT for Ruby, implemented in pure Ruby
@@ -355,6 +365,8 @@
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
 - [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - Timeouts for popular Ruby gems
+- [podstream/podstream](https://github.com/podstream/podstream) - Server for Podstream, the smart podcast platform!
+- [podstream/podstream-old](https://github.com/podstream/podstream-old) - 
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
