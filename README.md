@@ -163,6 +163,7 @@
 
 ## JavaScript 
 
+- [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [tumpio/requestcontrol](https://github.com/tumpio/requestcontrol) - A Firefox extension
 - [pixeltris/GK6X](https://github.com/pixeltris/GK6X) - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
@@ -214,6 +215,7 @@
 
 ## Lua 
 
+- [br1anchen/nvim-colorizer.lua](https://github.com/br1anchen/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) - Small plugin for vim to preview Asciidoc PDF output
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -235,6 +237,7 @@
 
 ## Others 
 
+- [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [joric/jorne](https://github.com/joric/jorne) - Jorne is an extended Corne keyboard with extra keys for brackets and international layouts
@@ -297,6 +300,7 @@
 
 ## Python 
 
+- [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A Python3 based CLI for managing Zeal Docsets
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -347,6 +351,8 @@
 
 ## Ruby 
 
+- [AndyObtiva/glimmer_wordle](https://github.com/AndyObtiva/glimmer_wordle) - Glimmer Wordle - Play Wordle Endlessly with No Limit!
+- [AndyObtiva/glimmer-dsl-gtk](https://github.com/AndyObtiva/glimmer-dsl-gtk) - Glimmer DSL for GTK - Ruby-GNOME Desktop Development GUI Library
 - [Shopify/measured-rails](https://github.com/Shopify/measured-rails) - Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
