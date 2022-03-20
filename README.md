@@ -215,6 +215,7 @@
 
 ## Lua 
 
+- [suketa/nvim-dap-ruby](https://github.com/suketa/nvim-dap-ruby) - 
 - [br1anchen/nvim-colorizer.lua](https://github.com/br1anchen/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) - Small plugin for vim to preview Asciidoc PDF output
@@ -237,6 +238,7 @@
 
 ## Others 
 
+- [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
@@ -351,6 +353,8 @@
 
 ## Ruby 
 
+- [jeremyevans/roda](https://github.com/jeremyevans/roda) - Routing Tree Web Toolkit
+- [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
 - [AndyObtiva/glimmer_wordle](https://github.com/AndyObtiva/glimmer_wordle) - Glimmer Wordle - Play Wordle Endlessly with No Limit!
 - [AndyObtiva/glimmer-dsl-gtk](https://github.com/AndyObtiva/glimmer-dsl-gtk) - Glimmer DSL for GTK - Ruby-GNOME Desktop Development GUI Library
 - [Shopify/measured-rails](https://github.com/Shopify/measured-rails) - Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
