@@ -13,6 +13,7 @@
   - [Crystal](#crystal)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
+  - [Fennel](#fennel)
   - [GDScript](#gdscript)
   - [Go](#go)
   - [HCL](#hcl)
@@ -78,6 +79,7 @@
 
 ## CSS 
 
+- [rubyreferences/rubychanges](https://github.com/rubyreferences/rubychanges) - Comprehensive changelog of Ruby Programming Language
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [fatihacet/uzaktancalismak-com](https://github.com/fatihacet/uzaktancalismak-com) - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
@@ -106,12 +108,17 @@
 - [2600hz/kazoo](https://github.com/2600hz/kazoo) - The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 
+## Fennel 
+
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - A motion plugin that keeps you in the zone
+
 ## GDScript 
 
 - [cis-ash/TEXTREME](https://github.com/cis-ash/TEXTREME) - 
 
 ## Go 
 
+- [open-pomodoro/openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -215,6 +222,7 @@
 
 ## Lua 
 
+- [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
 - [suketa/nvim-dap-ruby](https://github.com/suketa/nvim-dap-ruby) - 
 - [br1anchen/nvim-colorizer.lua](https://github.com/br1anchen/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
@@ -238,7 +246,7 @@
 
 ## Others 
 
-- [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
@@ -353,6 +361,8 @@
 
 ## Ruby 
 
+- [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
+- [rubyreferences/rubyref](https://github.com/rubyreferences/rubyref) - Ruby Programming Language Reference
 - [jeremyevans/roda](https://github.com/jeremyevans/roda) - Routing Tree Web Toolkit
 - [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
 - [AndyObtiva/glimmer_wordle](https://github.com/AndyObtiva/glimmer_wordle) - Glimmer Wordle - Play Wordle Endlessly with No Limit!
@@ -437,6 +447,7 @@
 
 ## Rust 
 
+- [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -464,6 +475,7 @@
 
 ## Shell 
 
+- [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [zgracem/dotconfig](https://github.com/zgracem/dotconfig) - 🛠 ~/.config
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -511,6 +523,7 @@
 
 ## Vim script 
 
+- [yuki-uthman/config](https://github.com/yuki-uthman/config) - 
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
