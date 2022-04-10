@@ -49,6 +49,7 @@
 
 ## C 
 
+- [milisims/tree-sitter-org](https://github.com/milisims/tree-sitter-org) - Org grammar for tree-sitter
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -87,6 +88,7 @@
 
 ## Clojure 
 
+- [BerkeleyTrue/dotfiles](https://github.com/BerkeleyTrue/dotfiles) - dot files and vim plugins I use on a daily.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## Crystal 
@@ -111,6 +113,7 @@
 
 ## Fennel 
 
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that lets you look before you leap
 
 ## GDScript 
@@ -119,6 +122,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
 - [redneckbeard/thanos](https://github.com/redneckbeard/thanos) - Ruby -&gt; Go at the snap of your fingers
@@ -227,6 +231,10 @@
 
 ## Lua 
 
+- [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.5+.
+- [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
@@ -308,7 +316,7 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [podstream/pod-infra](https://github.com/podstream/pod-infra) - 
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -414,6 +422,7 @@
 
 ## Ruby 
 
+- [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
 - [soutaro/steep](https://github.com/soutaro/steep) - Static type checker for Ruby
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) - Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise
