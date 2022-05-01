@@ -131,7 +131,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [akhenakh/kvtiles](https://github.com/akhenakh/kvtiles) - Self hosted maps, MBTiles key value storage and server
@@ -581,7 +581,7 @@
 
 ## TypeScript 
 
-- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [joeygoksu/prime-react-native](https://github.com/joeygoksu/prime-react-native) - The ultimate collection of production-ready, flexible and accessible React Native Boilerplate.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
