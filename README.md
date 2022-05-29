@@ -156,7 +156,7 @@
 
 ## Handlebars 
 
-- [curiositry/undefined-ghost-theme](https://github.com/curiositry/undefined-ghost-theme) - A minimal, Ghost 4.0-ready, membership-enabled starter theme for the Ghost blogging platform.
+- [curiositry/undefined-ghost-theme](https://github.com/curiositry/undefined-ghost-theme) - A minimal, Ghost 5.0-ready, membership-enabled starter theme for the Ghost blogging platform.
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 
 ## HolyC 
@@ -504,7 +504,7 @@
 
 ## Rust 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
