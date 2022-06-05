@@ -156,7 +156,6 @@
 
 ## Handlebars 
 
-- [curiositry/undefined-ghost-theme](https://github.com/curiositry/undefined-ghost-theme) - A minimal, Ghost 5.0-ready, membership-enabled starter theme for the Ghost blogging platform.
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 
 ## HolyC 
@@ -225,6 +224,7 @@
 
 ## Lua 
 
+- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [nvim-lua/nvim-package-specification](https://github.com/nvim-lua/nvim-package-specification) - Unofficial draft for a standard of a package metadata -- Not ready for use.
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
@@ -254,7 +254,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua
@@ -286,6 +286,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Nim 
@@ -306,7 +307,6 @@
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
-- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [joric/jorne](https://github.com/joric/jorne) - Jorne is an extended Corne keyboard with extra keys for brackets and international layouts
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -367,6 +367,7 @@
 
 ## Python 
 
+- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [blind-oracle/transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission
 - [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A Python3 based CLI for managing Zeal Docsets
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -418,6 +419,7 @@
 
 ## Ruby 
 
+- [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An implementation of the LSP specification for Ruby
 - [jaysonvirissimo/active_recall](https://github.com/jaysonvirissimo/active_recall) - Turn your ActiveRecord models into smart flashcards
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
@@ -539,6 +541,7 @@
 
 ## Shell 
 
+- [utdemir/zsh-up](https://github.com/utdemir/zsh-up) - ZSH integration for the Ultimate Plumber
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
