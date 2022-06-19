@@ -48,6 +48,7 @@
 
 ## C 
 
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [milisims/tree-sitter-org](https://github.com/milisims/tree-sitter-org) - Org grammar for tree-sitter
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
@@ -421,7 +422,7 @@
 ## Ruby 
 
 - [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
-- [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An implementation of the LSP specification for Ruby
+- [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
 - [jaysonvirissimo/active_recall](https://github.com/jaysonvirissimo/active_recall) - Turn your ActiveRecord models into smart flashcards
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 - [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
