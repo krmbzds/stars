@@ -116,7 +116,7 @@
 ## Fennel 
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that lets you look before you leap
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone
 
 ## GDScript 
 
@@ -226,6 +226,8 @@
 
 ## Lua 
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
+- [cseickel/diagnostic-window.nvim](https://github.com/cseickel/diagnostic-window.nvim) - Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [nvim-lua/nvim-package-specification](https://github.com/nvim-lua/nvim-package-specification) - Unofficial draft for a standard of a package metadata -- Not ready for use.
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
