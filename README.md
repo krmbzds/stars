@@ -83,14 +83,13 @@
 
 ## CSS 
 
-- [rubyreferences/rubychanges](https://github.com/rubyreferences/rubychanges) - Comprehensive changelog of Ruby Programming Language
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [fatihacet/uzaktancalismak-com](https://github.com/fatihacet/uzaktancalismak-com) - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
 
 ## Clojure 
 
-- [BerkeleyTrue/dotfiles](https://github.com/BerkeleyTrue/dotfiles) - dot files and vim plugins I use on a daily.
+- [BerkeleyTrue/dotfiles](https://github.com/BerkeleyTrue/dotfiles) - My workstation dotfiles
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## Crystal 
@@ -116,7 +115,7 @@
 ## Fennel 
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone (sister of lightspeed.nvim)
 
 ## GDScript 
 
@@ -434,6 +433,7 @@
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) - Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
 - [rubyreferences/rubyref](https://github.com/rubyreferences/rubyref) - Ruby Programming Language Reference
+- [rubyreferences/rubychanges](https://github.com/rubyreferences/rubychanges) - Comprehensive changelog of Ruby Programming Language
 - [jeremyevans/roda](https://github.com/jeremyevans/roda) - Routing Tree Web Toolkit
 - [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
 - [AndyObtiva/glimmer_wordle](https://github.com/AndyObtiva/glimmer_wordle) - Glimmer Wordle - Play Wordle Endlessly with No Limit!
