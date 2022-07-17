@@ -115,7 +115,7 @@
 ## Fennel 
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone (sister of lightspeed.nvim)
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
 
 ## GDScript 
 
@@ -373,7 +373,7 @@
 
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [blind-oracle/transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission
-- [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A Python3 based CLI for managing Zeal Docsets
+- [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A CLI for managing offline documentation for Zeal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
