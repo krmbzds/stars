@@ -236,7 +236,7 @@
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) - A Neovim wrapper around Vale, the syntax-aware linter for prose.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [cseickel/diagnostic-window.nvim](https://github.com/cseickel/diagnostic-window.nvim) - Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.
-- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
+- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [nvim-lua/nvim-package-specification](https://github.com/nvim-lua/nvim-package-specification) - Unofficial draft for a standard of a package metadata -- Not ready for use.
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
