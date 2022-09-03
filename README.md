@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Fennel](#fennel)
@@ -31,6 +32,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -105,6 +107,10 @@
 - [tbpgr/crystal_samples](https://github.com/tbpgr/crystal_samples) - 
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
+## Dart 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+
 ## Elixir 
 
 - [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
@@ -120,7 +126,7 @@
 ## Fennel 
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, "precognitive" interface for lightning-fast, effortless movements spanning the whole editor area
 
 ## GDScript 
 
@@ -128,6 +134,9 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
@@ -151,6 +160,7 @@
 
 ## HTML 
 
+- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [bullet-train-co/magic_test](https://github.com/bullet-train-co/magic_test) - 
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
@@ -179,6 +189,8 @@
 
 ## JavaScript 
 
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
@@ -366,12 +378,24 @@
 
 ## PHP 
 
+- [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
+- [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [volkansenturk/turkiye-iller-ilceler](https://github.com/volkansenturk/turkiye-iller-ilceler) - Türkiye - İller - İlçeler
 - [kalaomer/kahire](https://github.com/kalaomer/kahire) - REST Framework for Laravel
 
+## Pug 
+
+- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
+
 ## Python 
 
+- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [binhtran432k/dotfiles](https://github.com/binhtran432k/dotfiles) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [blind-oracle/transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission
@@ -425,6 +449,17 @@
 
 ## Ruby 
 
+- [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
+- [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
+- [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
+- [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
+- [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
+- [Floppy/van_dam](https://github.com/Floppy/van_dam) - A self-hosted digital asset manager for 3d print files
 - [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
@@ -475,7 +510,7 @@
 - [asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf) - :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [ankane/strong_migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development
-- [github/view_component](https://github.com/github/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
+- [ViewComponent/view_component](https://github.com/ViewComponent/view_component) - A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
 - [sbagdat/turkish_support](https://github.com/sbagdat/turkish_support) - Turkish character support for core ruby methods.
 - [Shopify/measured](https://github.com/Shopify/measured) - Encapsulate measurements and their units in Ruby.
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
@@ -578,6 +613,10 @@
 
 ## TypeScript 
 
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
+- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
