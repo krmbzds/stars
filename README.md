@@ -8,12 +8,14 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Erlang](#erlang)
 - [Fennel](#fennel)
 - [GDScript](#gdscript)
@@ -76,6 +78,10 @@
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
+## C# # 
+
+- [jasongdove/ErsatzTV](https://github.com/jasongdove/ErsatzTV) - Stream custom live channels using your own media
+
 ## C++ 
 
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -117,6 +123,10 @@
 - [fremantle-industries/tai](https://github.com/fremantle-industries/tai) - A composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+## Elm 
+
+- [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 
 ## Erlang 
 
@@ -546,6 +556,7 @@
 
 ## Rust 
 
+- [nik-x/aw-watcher-nvim](https://github.com/nik-x/aw-watcher-nvim) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
