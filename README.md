@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -47,9 +48,13 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
+## Adblock Filter List 
+
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+
 ## Assembly 
 
-- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - An approachable introduction to assembly.
+- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - 📘 An approachable introduction to Assembly, the result of our months-long quest to understand the language.
 
 ## Batchfile 
 
@@ -115,6 +120,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Elixir 
@@ -136,7 +142,7 @@
 ## Fennel 
 
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, "precognitive" interface for lightning-fast, effortless movements spanning the whole editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen jumps quicker and more natural than ever
 
 ## GDScript 
 
@@ -144,6 +150,9 @@
 
 ## Go 
 
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack messages and/or WebHooks.
+- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
@@ -170,6 +179,8 @@
 
 ## HTML 
 
+- [DartLazer/WhoIsHomeUI](https://github.com/DartLazer/WhoIsHomeUI) - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
+- [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [bullet-train-co/magic_test](https://github.com/bullet-train-co/magic_test) - 
@@ -199,6 +210,11 @@
 
 ## JavaScript 
 
+- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
+- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
+- [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
@@ -253,6 +269,10 @@
 
 ## Lua 
 
+- [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim
+- [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) - Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) - A Neovim wrapper around Vale, the syntax-aware linter for prose.
@@ -388,6 +408,9 @@
 
 ## PHP 
 
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
+- [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
+- [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -401,6 +424,9 @@
 
 ## Python 
 
+- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup & management docker, written in Django. Using m4b-merge for the backend Audible metadata and file merging/editing.
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
@@ -426,7 +452,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
-- [ciscorn/ldoce5viewer](https://github.com/ciscorn/ldoce5viewer) - Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
+- [ciscorn/ldoce5viewer](https://github.com/ciscorn/ldoce5viewer) - This software is no longer actively maintained --- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
 - [yogurt-cultures/laktoz](https://github.com/yogurt-cultures/laktoz) - Web interface for kefir.
 - [algorithmiaio/danku](https://github.com/algorithmiaio/danku) - Exchange ML models in a trustless manner!
 - [SystemsApproach/book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
@@ -459,7 +485,7 @@
 
 ## Ruby 
 
-- [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
+- [testdouble/standard](https://github.com/testdouble/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
@@ -585,12 +611,12 @@
 
 ## Scheme 
 
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 
 ## Shell 
 
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [utdemir/zsh-up](https://github.com/utdemir/zsh-up) - ZSH integration for the Ultimate Plumber
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
@@ -604,7 +630,6 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [mvallim/kubernetes-under-the-hood](https://github.com/mvallim/kubernetes-under-the-hood) - This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together.
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -624,6 +649,9 @@
 
 ## TypeScript 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
+- [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and splitting for groups :money_with_wings:
 - [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
