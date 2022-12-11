@@ -481,6 +481,7 @@
 
 ## Python 
 
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup & management docker, written in Django. Using m4b-merge for the backend Audible metadata and file merging/editing.
@@ -543,6 +544,7 @@
 
 ## Ruby 
 
+- [tompng/katakata_irb](https://github.com/tompng/katakata_irb) - IRB with Typed Completion
 - [iftheshoefritz/solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails) - Solargraph plugin to add awareness of Rails-specific code
 - [excid3/nine_to_five](https://github.com/excid3/nine_to_five) - 
 - [asciidoctor/asciidoctor-tabs](https://github.com/asciidoctor/asciidoctor-tabs) - An extension for Asciidoctor that adds a tabs block to the AsciiDoc syntax.
