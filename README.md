@@ -72,6 +72,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [milisims/tree-sitter-org](https://github.com/milisims/tree-sitter-org) - Org grammar for tree-sitter
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -96,6 +97,7 @@
 
 ## C++ 
 
+- [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [oct0xor/mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
@@ -113,7 +115,6 @@
 
 ## CSS 
 
-- [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [fatihacet/uzaktancalismak-com](https://github.com/fatihacet/uzaktancalismak-com) - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
 
@@ -206,6 +207,7 @@
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
+- [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [asciidoctor/asciidoctor-reveal.js](https://github.com/asciidoctor/asciidoctor-reveal.js) - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -560,6 +562,9 @@
 
 ## Ruby 
 
+- [jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose) - :memo: Streamline your writing in Jekyll with these commands.
+- [fbernier/tomlrb](https://github.com/fbernier/tomlrb) - A Racc based TOML parser
+- [asciidoctor/jekyll-asciidoc](https://github.com/asciidoctor/jekyll-asciidoc) - :syringe: A Jekyll plugin that converts AsciiDoc source files in your site to HTML pages using Asciidoctor.
 - [janlelis/irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB console 💎︎
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
@@ -678,12 +683,12 @@
 
 ## Rust 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [phaazon/this-week-in-neovim.org](https://github.com/phaazon/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [niklaswimmer/aw-watcher-nvim](https://github.com/niklaswimmer/aw-watcher-nvim) - 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
