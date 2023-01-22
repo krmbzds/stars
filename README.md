@@ -36,6 +36,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [Prolog](#prolog)
 - [Pug](#pug)
 - [Python](#python)
 - [R](#r)
@@ -72,12 +73,10 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
 - [milisims/tree-sitter-org](https://github.com/milisims/tree-sitter-org) - Org grammar for tree-sitter
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [Chaotic-Entity/Dactyl-Manuform-6x6](https://github.com/Chaotic-Entity/Dactyl-Manuform-6x6) - Layout and files changed for the Dactyl Manuform 6x6 keyboard
-- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -302,6 +301,8 @@
 
 ## Lua 
 
+- [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
+- [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) - Keep clipboard in sync with Neovim without the peformance hit.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar for Neovim
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
@@ -494,6 +495,10 @@
 - [volkansenturk/turkiye-iller-ilceler](https://github.com/volkansenturk/turkiye-iller-ilceler) - Türkiye - İller - İlçeler
 - [kalaomer/kahire](https://github.com/kalaomer/kahire) - REST Framework for Laravel
 
+## Prolog 
+
+- [SuperDisk/tar.pl](https://github.com/SuperDisk/tar.pl) - tar creator+extractor in ~100 lines of prolog
+
 ## Pug 
 
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
@@ -564,6 +569,9 @@
 
 ## Ruby 
 
+- [DragonRidersUnite/book](https://github.com/DragonRidersUnite/book) - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
+- [ankane/polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby
+- [nejdetkadir/devise-api](https://github.com/nejdetkadir/devise-api) - The devise-api gem is a convenient way to add authentication to your Ruby on Rails application using the devise gem. It provides support for access tokens and refresh tokens, which allow you to authen
 - [asciidoctor/asciidoctor-reducer](https://github.com/asciidoctor/asciidoctor-reducer) - :alembic: A tool to generate a single AsciiDoc document by expanding all the include directives reachable from the parent document.
 - [jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose) - :memo: Streamline your writing in Jekyll with these commands.
 - [fbernier/tomlrb](https://github.com/fbernier/tomlrb) - A Racc based TOML parser
@@ -692,6 +700,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [phaazon/this-week-in-neovim.org](https://github.com/phaazon/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [niklaswimmer/aw-watcher-nvim](https://github.com/niklaswimmer/aw-watcher-nvim) - 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
