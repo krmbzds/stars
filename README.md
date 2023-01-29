@@ -102,7 +102,6 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [oct0xor/mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [jfedor2/trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
@@ -172,7 +171,6 @@
 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
@@ -192,7 +190,6 @@
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [akhenakh/kvtiles](https://github.com/akhenakh/kvtiles) - Self hosted maps, MBTiles key value storage and server
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -250,14 +247,10 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [tumpio/requestcontrol](https://github.com/tumpio/requestcontrol) - A Firefox extension
 - [pixeltris/GK6X](https://github.com/pixeltris/GK6X) - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
-- [MichaelAquilina/improved-workspace-indicator](https://github.com/MichaelAquilina/improved-workspace-indicator) - gnome-shell extension that provides a workspace indicator similar to i3/sway
-- [windsorschmidt/disable-workspace-switcher-popup](https://github.com/windsorschmidt/disable-workspace-switcher-popup) - Gnome Shell 3 extension that disables the arrow displayed during workspace switching
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [hotwired/stimulus-rails](https://github.com/hotwired/stimulus-rails) - Use Stimulus in your Ruby on Rails app
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
@@ -277,7 +270,6 @@
 - [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [left-pad/left-pad](https://github.com/left-pad/left-pad) - :arrow_left: String left pad -- deprecated, use String​.prototype​.pad​Start()
-- [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [magwo/elevatorsaga](https://github.com/magwo/elevatorsaga) - The elevator programming game!
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -429,7 +421,6 @@
 - [st0012/slides](https://github.com/st0012/slides) - 
 - [ruby/dev-meeting-log](https://github.com/ruby/dev-meeting-log) - 
 - [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
@@ -454,7 +445,6 @@
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
-- [hantuzun/awesome-dlt](https://github.com/hantuzun/awesome-dlt) - Emerging DLT technologies trying to tackle 'the blockchain trilemma'
 - [ankane/secure_rails](https://github.com/ankane/secure_rails) - Rails security best practices
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -521,7 +511,6 @@
 - [binhtran432k/dotfiles](https://github.com/binhtran432k/dotfiles) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
-- [blind-oracle/transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission
 - [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A CLI for managing offline documentation for Zeal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
@@ -550,7 +539,6 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Tafkas/solarpi](https://github.com/Tafkas/solarpi) - A RaspberryPi based, Flask powered photovoltaic monitor
 - [gridsync/gridsync](https://github.com/gridsync/gridsync) - Synchronize local directories with Tahoe-LAFS storage grids
-- [tahoe-lafs/tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS decentralized secure filesystem.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [emre/PharmacyOnDuty](https://github.com/emre/PharmacyOnDuty) - Pharmacy *on duty* api for Istanbul.
@@ -697,6 +685,44 @@
 
 ## Rust 
 
+- [pop-os/gtk-extras](https://github.com/pop-os/gtk-extras) - Rust crate containing an assortment of extra, unofficial GTK patterns, widgets, and traits.
+- [pop-os/systemd-boot-conf](https://github.com/pop-os/systemd-boot-conf) - Rust crate for managing the systemd-boot loader configuration.
+- [pop-os/sysfs-class](https://github.com/pop-os/sysfs-class) - Rust library for viewing /sys/class in an object-oriented format
+- [pop-os/freedesktop-desktop-entry](https://github.com/pop-os/freedesktop-desktop-entry) - Rust crate for navigating Freedesktop desktop entries
+- [pop-os/theme-switcher](https://github.com/pop-os/theme-switcher) - Pop!_OS GTK widget library / app for switching themes
+- [pop-os/libparted](https://github.com/pop-os/libparted) - Rust wrappers for libparted
+- [pop-os/url-scraper](https://github.com/pop-os/url-scraper) - Rust crate for scraping URLs from HTML pages
+- [pop-os/shell-shortcuts](https://github.com/pop-os/shell-shortcuts) - Application for displaying and demoing Pop Shell shortcuts
+- [pop-os/firmware-manager](https://github.com/pop-os/firmware-manager) - Generic framework and GTK UI for firmware updates from system76-firmware and fwupd, written in Rust.
+- [pop-os/system76-scheduler](https://github.com/pop-os/system76-scheduler) - Auto-configure CFS and process priorities for improved desktop responsiveness
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
+- [pop-os/xdg-shell-wrapper](https://github.com/pop-os/xdg-shell-wrapper) - WIP xdg-shell wrapper
+- [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) - 
+- [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Get UPower info via dbus using the zbus crate
+- [pop-os/dbus-settings-bindings](https://github.com/pop-os/dbus-settings-bindings) - Rust bindings for D-Bus settings interfaces
+- [pop-os/cosmic-theme](https://github.com/pop-os/cosmic-theme) - WIP
+- [pop-os/mpris2-zbus](https://github.com/pop-os/mpris2-zbus) - A zbus-based MPRIS2 wrapper for Rust
+- [pop-os/launch-pad](https://github.com/pop-os/launch-pad) - Automatic process management library for Rust
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
+- [pop-os/distinst](https://github.com/pop-os/distinst) - Installer Backend
+- [pop-os/system76-firmware](https://github.com/pop-os/system76-firmware) - System76 Firmware Tool and Daemon
+- [pop-os/cosmic-osd](https://github.com/pop-os/cosmic-osd) - 
+- [pop-os/cosmic-time](https://github.com/pop-os/cosmic-time) - Animation Library for github.com/iced-rs/iced
+- [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
+- [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
+- [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
+- [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Addtional wayland-protocols used by the COSMIC desktop environment
+- [pop-os/cosmic-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
+- [pop-os/cosmic-workspaces-epoch](https://github.com/pop-os/cosmic-workspaces-epoch) - 
+- [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
+- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
+- [pop-os/cosmic-session](https://github.com/pop-os/cosmic-session) - Session manager for the COSMIC desktop environment
+- [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
+- [pop-os/cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel
+- [pop-os/launcher](https://github.com/pop-os/launcher) - Modular IPC-based desktop launcher service
+- [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
+- [pop-os/cosmic-panel](https://github.com/pop-os/cosmic-panel) - WIP
+- [pop-os/core](https://github.com/pop-os/core) - WIP immutable base
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
@@ -772,6 +798,8 @@
 
 ## TypeScript 
 
+- [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -789,10 +817,8 @@
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
 
 ## Vim Script 
