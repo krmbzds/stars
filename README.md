@@ -560,6 +560,8 @@
 
 ## Ruby 
 
+- [saturnflyer/polyfill-data](https://github.com/saturnflyer/polyfill-data) - Adds the Ruby 3.2 Data class to lower Ruby versions
+- [calebhearth/mentionable](https://github.com/calebhearth/mentionable) - 
 - [DragonRidersUnite/book](https://github.com/DragonRidersUnite/book) - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
 - [ankane/polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby
 - [nejdetkadir/devise-api](https://github.com/nejdetkadir/devise-api) - The devise-api gem is a convenient way to add authentication to your Ruby on Rails application using the devise gem. It provides support for access tokens and refresh tokens, which allow you to authen
