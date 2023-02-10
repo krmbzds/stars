@@ -24,6 +24,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Haskell](#haskell)
 - [HolyC](#holyc)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -218,6 +219,10 @@
 
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 
+## Haskell 
+
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
+
 ## HolyC 
 
 - [tinkeros/TinkerOS](https://github.com/tinkeros/TinkerOS) - Home of TinkerOS a fork of TempleOS
@@ -226,6 +231,7 @@
 
 ## Java 
 
+- [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [asciidoctor/asciidoctor-intellij-plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin) - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
@@ -586,7 +592,7 @@
 - [ruby-syntax-tree/prettier_print](https://github.com/ruby-syntax-tree/prettier_print) - A drop-in replacement for the prettyprint gem with more functionality
 - [ruby-syntax-tree/syntax_tree-translator](https://github.com/ruby-syntax-tree/syntax_tree-translator) - Translate the Syntax Tree AST into other Ruby ASTs
 - [ruby-syntax-tree/syntax_tree-rbs](https://github.com/ruby-syntax-tree/syntax_tree-rbs) - Syntax Tree support for RBS
-- [ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree) - A fast Ruby parser and formatter
+- [ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree) - Interact with the Ruby syntax tree
 - [Shopify/ruby-style-guide](https://github.com/Shopify/ruby-style-guide) - Shopify’s Ruby Style Guide
 - [rubocop/rubocop-performance](https://github.com/rubocop/rubocop-performance) - An extension of RuboCop focused on code performance checks.
 - [Shopify/erb-lint](https://github.com/Shopify/erb-lint) - Lint your ERB or HTML files
@@ -693,6 +699,7 @@
 
 ## Rust 
 
+- [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [pop-os/cosmic-text-editor](https://github.com/pop-os/cosmic-text-editor) - COSMIC Text Editor
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
