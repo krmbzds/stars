@@ -38,7 +38,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Prolog](#prolog)
-- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -254,6 +253,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
@@ -501,10 +501,6 @@
 ## Prolog 
 
 - [SuperDisk/tar.pl](https://github.com/SuperDisk/tar.pl) - tar creator+extractor in ~100 lines of prolog
-
-## Pug 
-
-- [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 
 ## Python 
 
