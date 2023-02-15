@@ -241,7 +241,7 @@
 
 ## JavaScript 
 
-- [automerge/automerge-rs](https://github.com/automerge/automerge-rs) - Rust implementation of automerge
+- [automerge/automerge](https://github.com/automerge/automerge) - Rust implementation of automerge
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [osolmaz/microtonal-piano](https://github.com/osolmaz/microtonal-piano) - A digital instrument inspired by piano and kanun
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
