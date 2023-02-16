@@ -422,6 +422,7 @@
 
 ## Others 
 
+- [dfloer/SC2k-docs](https://github.com/dfloer/SC2k-docs) - Documentation related to the implementation of Maxis' game, SimCity 2000.
 - [SavourySnaX/AOTMC89](https://github.com/SavourySnaX/AOTMC89) - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [SterlingHooten/borg-backup-exclusions-macos](https://github.com/SterlingHooten/borg-backup-exclusions-macos) - Exclusion rules for Borg Backup catered to macOS
