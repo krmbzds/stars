@@ -65,6 +65,7 @@
 
 ## C 
 
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [tonytonyjan/exif](https://github.com/tonytonyjan/exif) - The fastest Ruby EXIF reader.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -240,6 +241,7 @@
 
 ## JavaScript 
 
+- [ViewComponent/lookbook](https://github.com/ViewComponent/lookbook) - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
 - [automerge/automerge](https://github.com/automerge/automerge) - Rust implementation of automerge
