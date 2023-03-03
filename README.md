@@ -65,6 +65,7 @@
 
 ## C 
 
+- [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [tonytonyjan/exif](https://github.com/tonytonyjan/exif) - The fastest Ruby EXIF reader.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -508,6 +509,8 @@
 
 ## Python 
 
+- [MuhammedHasan/figure_panel](https://github.com/MuhammedHasan/figure_panel) - 
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
@@ -571,6 +574,7 @@
 
 ## Ruby 
 
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
 - [ronin-rb/ronin](https://github.com/ronin-rb/ronin) - Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git rep
 - [saturnflyer/polyfill-data](https://github.com/saturnflyer/polyfill-data) - Adds the Ruby 3.2 Data class to lower Ruby versions
@@ -701,6 +705,7 @@
 
 ## Rust 
 
+- [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) - Stalwart SMTP Server
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [pop-os/cosmic-text-editor](https://github.com/pop-os/cosmic-text-editor) - COSMIC Text Editor
