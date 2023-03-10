@@ -245,8 +245,8 @@
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [ViewComponent/lookbook](https://github.com/ViewComponent/lookbook) - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-- [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
-- [automerge/automerge](https://github.com/automerge/automerge) - Rust implementation of automerge
+- [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven First Mile Data Onboarding Platform:Free flatfile.com alternative
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [osolmaz/microtonal-piano](https://github.com/osolmaz/microtonal-piano) - A digital instrument inspired by piano and kanun
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
