@@ -195,6 +195,7 @@
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+- [akhenakh/kvtiles](https://github.com/akhenakh/kvtiles) - Self hosted maps, MBTiles key value storage and server
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -271,7 +272,6 @@
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [akhenakh/kvtiles](https://github.com/akhenakh/kvtiles) - Self hosted maps, MBTiles key value storage and server
 - [Nickardson/shenzhen-solitaire](https://github.com/Nickardson/shenzhen-solitaire) - 
 - [ds300/jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -321,7 +321,6 @@
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
-- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [sindrets/dotfiles](https://github.com/sindrets/dotfiles) - 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -699,7 +698,7 @@
 - [fotinakis/swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
 - [ruby-grape/grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add OAPI/swagger v2.0 compliant documentation to your grape API
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
-- [YorickPeterse/oga](https://github.com/YorickPeterse/oga) - Read-only mirror of https://gitlab.com/yorickpeterse/oga
+- [yorickpeterse/oga](https://github.com/yorickpeterse/oga) - Oga is an XML/HTML parser written in Ruby.
 - [thirtysixthspan/descriptive_statistics](https://github.com/thirtysixthspan/descriptive_statistics) - 
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [piotrmurach/tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
@@ -713,6 +712,7 @@
 
 ## Rust 
 
+- [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1) - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
 - [pop-os/client-toolkit](https://github.com/pop-os/client-toolkit) - Smithay's toolkit for writing wayland clients
 - [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) - Stalwart SMTP Server
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
@@ -798,6 +798,7 @@
 ## Shell 
 
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
@@ -848,7 +849,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
