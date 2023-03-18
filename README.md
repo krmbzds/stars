@@ -50,6 +50,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Adblock Filter List 
 
@@ -577,6 +578,7 @@
 
 ## Ruby 
 
+- [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [hot-glue-for-rails/hot-glue](https://github.com/hot-glue-for-rails/hot-glue) - Rapid scaffold builder for Turbo-Rails and Hotwire
 - [bkuhlmann/runcom](https://github.com/bkuhlmann/runcom) - An XDG enhanced run command manager for command line interfaces.
 - [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - Provides an implementation of the XDG Base Directory Specification.
@@ -712,6 +714,7 @@
 
 ## Rust 
 
+- [epilys/gerb](https://github.com/epilys/gerb) - Graphical font editor (GTK + Rust)
 - [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1) - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
 - [pop-os/client-toolkit](https://github.com/pop-os/client-toolkit) - Smithay's toolkit for writing wayland clients
 - [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) - Stalwart SMTP Server
@@ -835,6 +838,7 @@
 
 ## TypeScript 
 
+- [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
@@ -864,7 +868,6 @@
 
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
-- [yuki-uthman/config](https://github.com/yuki-uthman/config) - 
 - [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -873,6 +876,10 @@
 
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+
+## Zig 
+
+- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
 
 
 ## License
