@@ -48,6 +48,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -66,6 +67,7 @@
 
 ## C 
 
+- [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [oggy/looksee](https://github.com/oggy/looksee) - Supercharged method introspection in IRB
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
@@ -312,6 +314,7 @@
 
 ## Lua 
 
+- [dundargoc/fakedonalds.nvim](https://github.com/dundargoc/fakedonalds.nvim) - A mcdonald's inspired theme
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
@@ -831,6 +834,7 @@
 
 ## Swift 
 
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
 
 ## TeX 
@@ -839,6 +843,7 @@
 
 ## TypeScript 
 
+- [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
@@ -864,6 +869,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
+
+## Vala 
+
+- [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 ## Vim Script 
 
