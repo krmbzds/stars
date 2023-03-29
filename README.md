@@ -519,7 +519,7 @@
 
 ## Python 
 
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [MuhammedHasan/figure_panel](https://github.com/MuhammedHasan/figure_panel) - 
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
@@ -751,7 +751,7 @@
 - [pop-os/distinst](https://github.com/pop-os/distinst) - Installer Backend
 - [pop-os/system76-firmware](https://github.com/pop-os/system76-firmware) - System76 Firmware Tool and Daemon
 - [pop-os/cosmic-osd](https://github.com/pop-os/cosmic-osd) - 
-- [pop-os/cosmic-time](https://github.com/pop-os/cosmic-time) - Animation Library for github.com/iced-rs/iced
+- [pop-os/cosmic-time](https://github.com/pop-os/cosmic-time) - Animation Library for https://github.com/iced-rs/iced and https://github.com/pop-os/cosmic-epoch
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
 - [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
 - [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
