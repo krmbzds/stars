@@ -67,6 +67,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [oggy/looksee](https://github.com/oggy/looksee) - Supercharged method introspection in IRB
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -519,6 +520,7 @@
 
 ## Python 
 
+- [google/vroom](https://github.com/google/vroom) - Launch vim tests
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [MuhammedHasan/figure_panel](https://github.com/MuhammedHasan/figure_panel) - 
@@ -847,7 +849,7 @@
 
 ## TypeScript 
 
-- [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app
+- [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
