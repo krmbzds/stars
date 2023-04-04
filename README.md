@@ -67,6 +67,7 @@
 
 ## C 
 
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [oggy/looksee](https://github.com/oggy/looksee) - Supercharged method introspection in IRB
@@ -209,6 +210,7 @@
 
 ## HTML 
 
+- [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [DartLazer/WhoIsHomeUI](https://github.com/DartLazer/WhoIsHomeUI) - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
@@ -436,6 +438,7 @@
 
 ## Others 
 
+- [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - An open-source AI guide.
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [dfloer/SC2k-docs](https://github.com/dfloer/SC2k-docs) - Documentation related to the implementation of Maxis' game, SimCity 2000.
 - [SavourySnaX/AOTMC89](https://github.com/SavourySnaX/AOTMC89) - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -520,6 +523,7 @@
 
 ## Python 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [google/vroom](https://github.com/google/vroom) - Launch vim tests
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -723,6 +727,7 @@
 
 ## Rust 
 
+- [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [epilys/gerb](https://github.com/epilys/gerb) - Graphical font editor (GTK + Rust)
 - [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1) - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.
