@@ -523,6 +523,8 @@
 
 ## Python 
 
+- [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert) - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
+- [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -593,6 +595,7 @@
 
 ## Ruby 
 
+- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [hot-glue-for-rails/hot-glue](https://github.com/hot-glue-for-rails/hot-glue) - Rapid scaffold builder for Turbo-Rails and Hotwire
 - [bkuhlmann/runcom](https://github.com/bkuhlmann/runcom) - An XDG enhanced run command manager for command line interfaces.
