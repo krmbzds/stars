@@ -251,6 +251,7 @@
 
 ## JavaScript 
 
+- [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 - [bdaase/noannoyance](https://github.com/bdaase/noannoyance) - 
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
@@ -604,6 +605,7 @@
 
 ## Ruby 
 
+- [st0012/mini-debugger](https://github.com/st0012/mini-debugger) - 
 - [MaximeD/gem_updater](https://github.com/MaximeD/gem_updater) - Update gems in your Gemfile and fetch their changelogs
 - [acuppy/faker_shorthand](https://github.com/acuppy/faker_shorthand) - 
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
@@ -644,7 +646,7 @@
 - [ruby/shell](https://github.com/ruby/shell) - Shell implements an idiomatic Ruby interface for common UNIX shell commands
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 - [ruby/irb](https://github.com/ruby/irb) - interactive Ruby
-- [standardrb/standard](https://github.com/standardrb/standard) - 🌟 Ruby Style Guide, with linter & automatic code fixer
+- [standardrb/standard](https://github.com/standardrb/standard) - Ruby's bikeshed-proof linter and formatter 🚲
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
@@ -896,7 +898,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
