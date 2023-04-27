@@ -180,7 +180,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
@@ -255,7 +255,7 @@
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 - [bdaase/noannoyance](https://github.com/bdaase/noannoyance) - 
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
-- [ViewComponent/lookbook](https://github.com/ViewComponent/lookbook) - A tool to help browse, develop, test & document ViewComponents in Ruby on Rails apps 🛠
+- [ViewComponent/lookbook](https://github.com/ViewComponent/lookbook) - A UI development environment for Ruby on Rails apps ✨
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -607,6 +607,7 @@
 
 ## Ruby 
 
+- [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP extension for Rails
 - [st0012/mini-debugger](https://github.com/st0012/mini-debugger) - 
 - [MaximeD/gem_updater](https://github.com/MaximeD/gem_updater) - Update gems in your Gemfile and fetch their changelogs
 - [acuppy/faker_shorthand](https://github.com/acuppy/faker_shorthand) - 
@@ -747,6 +748,7 @@
 
 ## Rust 
 
+- [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
@@ -877,6 +879,7 @@
 
 ## TypeScript 
 
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
