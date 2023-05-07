@@ -244,7 +244,6 @@
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [asciidoctor/asciidoctor-intellij-plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin) - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
-- [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [slm/WebViewNativeBridge](https://github.com/slm/WebViewNativeBridge) - WebView bridge for android
 - [nayuki/Reference-Huffman-coding](https://github.com/nayuki/Reference-Huffman-coding) - Clear implementation of Huffman coding for educational purposes in Java, Python, C++.
 - [microg/UnifiedNlp](https://github.com/microg/UnifiedNlp) - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
@@ -252,6 +251,7 @@
 
 ## JavaScript 
 
+- [ggrossetie/asciidoctor-geist](https://github.com/ggrossetie/asciidoctor-geist) - Asciidoctor.js converter based on Geist UI
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 - [bdaase/noannoyance](https://github.com/bdaase/noannoyance) - 
@@ -408,6 +408,7 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
@@ -462,7 +463,6 @@
 - [st0012/slides](https://github.com/st0012/slides) - 
 - [ruby/dev-meeting-log](https://github.com/ruby/dev-meeting-log) - 
 - [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
@@ -535,13 +535,14 @@
 
 ## Python 
 
+- [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [williamSYSU/TextGAN-PyTorch](https://github.com/williamSYSU/TextGAN-PyTorch) - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 - [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert) - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 - [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [google/vroom](https://github.com/google/vroom) - Launch vim tests
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -616,7 +617,7 @@
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [hot-glue-for-rails/hot-glue](https://github.com/hot-glue-for-rails/hot-glue) - Rapid scaffold builder for Turbo-Rails and Hotwire
 - [bkuhlmann/runcom](https://github.com/bkuhlmann/runcom) - An XDG enhanced run command manager for command line interfaces.
-- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - Provides an implementation of the XDG Base Directory Specification.
+- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - An XDG Base Directory Specification implementation.
 - [ericbeland/ruby-packer](https://github.com/ericbeland/ruby-packer) - Packing your Ruby application into a single executable.
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
@@ -749,7 +750,7 @@
 
 ## Rust 
 
-- [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
@@ -873,6 +874,7 @@
 
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
+- [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## TeX 
 
