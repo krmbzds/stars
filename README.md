@@ -8,6 +8,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -64,6 +65,10 @@
 ## Batchfile 
 
 - [Fortyseven/RA_1993](https://github.com/Fortyseven/RA_1993) - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -242,6 +247,7 @@
 
 ## Java 
 
+- [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [queer/utt](https://github.com/queer/utt) - utt is the universal text transformer
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [asciidoctor/asciidoctor-intellij-plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin) - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
@@ -282,7 +288,6 @@
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [Nickardson/shenzhen-solitaire](https://github.com/Nickardson/shenzhen-solitaire) - 
 - [ds300/jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -310,6 +315,7 @@
 
 ## Jupyter Notebook 
 
+- [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -452,7 +458,7 @@
 
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [krmbzds/friendly-snippets](https://github.com/krmbzds/friendly-snippets) - Set of preconfigured snippets for different languages.
-- [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation.
+- [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation. Updated occasionally.
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [dfloer/SC2k-docs](https://github.com/dfloer/SC2k-docs) - Documentation related to the implementation of Maxis' game, SimCity 2000.
 - [SavourySnaX/AOTMC89](https://github.com/SavourySnaX/AOTMC89) - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -537,13 +543,12 @@
 ## Python 
 
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
-- [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [williamSYSU/TextGAN-PyTorch](https://github.com/williamSYSU/TextGAN-PyTorch) - TextGAN is a PyTorch framework for Generative Adversarial Networks (GANs) based text generation models.
 - [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert) - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
 - [AgileRL/AgileRL](https://github.com/AgileRL/AgileRL) - Streamlining reinforcement learning with RLOps
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [google/vroom](https://github.com/google/vroom) - Launch vim tests
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [MuhammedHasan/figure_panel](https://github.com/MuhammedHasan/figure_panel) - 
@@ -803,7 +808,7 @@
 - [pop-os/cosmic-panel](https://github.com/pop-os/cosmic-panel) - WIP
 - [pop-os/core](https://github.com/pop-os/core) - WIP immutable base
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [phaazon/this-week-in-neovim.org](https://github.com/phaazon/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
@@ -884,6 +889,7 @@
 ## TypeScript 
 
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
