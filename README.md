@@ -50,6 +50,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -132,6 +133,7 @@
 
 ## CSS 
 
+- [asciidoctor/asciidoctor-browser-extension](https://github.com/asciidoctor/asciidoctor-browser-extension) - :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [fatihacet/uzaktancalismak-com](https://github.com/fatihacet/uzaktancalismak-com) - Uzaktan calismak ile ilgili Turkce icerik sitesi. EN: Content website about remote working.
 
@@ -151,6 +153,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Dockerfile 
@@ -332,6 +335,7 @@
 
 ## Lua 
 
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [krmbzds/dracula.nvim](https://github.com/krmbzds/dracula.nvim) - Dracula colorscheme for neovim written in Lua
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
@@ -381,7 +385,7 @@
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) - Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)
@@ -395,7 +399,7 @@
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
@@ -457,6 +461,7 @@
 
 ## Others 
 
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [krmbzds/friendly-snippets](https://github.com/krmbzds/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation. Updated occasionally.
@@ -513,7 +518,7 @@
 - [liligga/ruby-refactoring](https://github.com/liligga/ruby-refactoring) - Examples for the "OOD and Refactoring Patterns in Ruby" course.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [eserozvataf/kontra-is-anlasmasi](https://github.com/eserozvataf/kontra-is-anlasmasi) - 
+- [eser/kontra-is-anlasmasi](https://github.com/eser/kontra-is-anlasmasi) - 
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [raganwald/presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -616,6 +621,9 @@
 
 ## Ruby 
 
+- [kojix2/icalmaker](https://github.com/kojix2/icalmaker) - 
+- [ruby/tracer](https://github.com/ruby/tracer) - Outputs a source level execution trace of a Ruby program.
+- [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
 - [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP extension for Rails
 - [st0012/mini-debugger](https://github.com/st0012/mini-debugger) - 
@@ -816,7 +824,6 @@
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [phaazon/this-week-in-neovim.org](https://github.com/phaazon/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [niklaswimmer/aw-watcher.nvim](https://github.com/niklaswimmer/aw-watcher.nvim) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust
@@ -831,7 +838,6 @@
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [ActivityWatch/aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) - High-performance implementation of the ActivityWatch server, written in Rust
-- [hove-io/mimirsbrunn](https://github.com/hove-io/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [portier/portier-broker](https://github.com/portier/portier-broker) - Portier Broker reference implementation, written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -926,6 +932,10 @@
 ## Vala 
 
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+
+## Verilog 
+
+- [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑
 
 ## Vim Script 
 
