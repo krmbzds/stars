@@ -226,6 +226,7 @@
 - [DartLazer/WhoIsHomeUI](https://github.com/DartLazer/WhoIsHomeUI) - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 - [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+- [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
@@ -284,7 +285,6 @@
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
-- [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [pixeltris/GK6X](https://github.com/pixeltris/GK6X) - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
@@ -483,7 +483,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -632,8 +632,8 @@
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [hot-glue-for-rails/hot-glue](https://github.com/hot-glue-for-rails/hot-glue) - Rapid scaffold builder for Turbo-Rails and Hotwire
-- [bkuhlmann/runcom](https://github.com/bkuhlmann/runcom) - An XDG enhanced run command manager for command line interfaces.
-- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - An XDG Base Directory Specification implementation.
+- [bkuhlmann/runcom](https://github.com/bkuhlmann/runcom) - A XDG enhanced run command manager for command line interfaces.
+- [bkuhlmann/xdg](https://github.com/bkuhlmann/xdg) - A XDG Base Directory Specification implementation.
 - [ericbeland/ruby-packer](https://github.com/ericbeland/ruby-packer) - Packing your Ruby application into a single executable.
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [glaucocustodio/tanakai](https://github.com/glaucocustodio/tanakai) - Tanakai is a modern web scraping framework written in Ruby. A fork of Kimurai.
@@ -698,7 +698,7 @@
 - [Shopify/measured-rails](https://github.com/Shopify/measured-rails) - Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
-- [AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui) - Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - The Quickest Way From Zero To GUI - No need to pre-install any prerequisites. Just install the gem and have platform-ind
+- [AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui) - Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-install any prerequisites.
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [chrisseaton/rhizome](https://github.com/chrisseaton/rhizome) - A JIT for Ruby, implemented in pure Ruby
 - [enderahmetyurt/turkish_banks](https://github.com/enderahmetyurt/turkish_banks) - All Turkish Banks and Their Branches
@@ -770,6 +770,7 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [epilys/gerb](https://github.com/epilys/gerb) - Graphical font editor (GTK + Rust)
@@ -900,7 +901,6 @@
 
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
