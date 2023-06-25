@@ -99,7 +99,6 @@
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [hantuzun/hr-code](https://github.com/hantuzun/hr-code) - Human Response Code: Designed to be recognized by humans and OCR. Encodes all valid URL characters to images.
-- [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
@@ -226,6 +225,7 @@
 - [DartLazer/WhoIsHomeUI](https://github.com/DartLazer/WhoIsHomeUI) - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
 - [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
@@ -263,6 +263,7 @@
 
 ## JavaScript 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [ggrossetie/asciidoctor-geist](https://github.com/ggrossetie/asciidoctor-geist) - Asciidoctor.js converter based on Geist UI
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
@@ -349,7 +350,6 @@
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) - Keep clipboard in sync with Neovim without the peformance hit.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar for Neovim
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -464,7 +464,7 @@
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [krmbzds/friendly-snippets](https://github.com/krmbzds/friendly-snippets) - Set of preconfigured snippets for different languages.
-- [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation. Updated occasionally.
+- [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for getting started with FOSS text generation.
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [dfloer/SC2k-docs](https://github.com/dfloer/SC2k-docs) - Documentation related to the implementation of Maxis' game, SimCity 2000.
 - [SavourySnaX/AOTMC89](https://github.com/SavourySnaX/AOTMC89) - Konix Multisystem - Attack Of The Mutant Camels '89 V0.4 - Source Code
@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [wootfish/theseus.dht](https://github.com/wootfish/theseus.dht) - A distributed hash table with unusually strong security properties
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
@@ -770,7 +771,6 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [epilys/gerb](https://github.com/epilys/gerb) - Graphical font editor (GTK + Rust)
@@ -853,6 +853,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 
@@ -901,6 +902,7 @@
 
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
@@ -918,7 +920,6 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
