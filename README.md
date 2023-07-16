@@ -156,6 +156,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Dockerfile 
 
@@ -264,6 +265,8 @@
 
 ## JavaScript 
 
+- [ggrossetie/asciidoctor-ipython](https://github.com/ggrossetie/asciidoctor-ipython) - 
+- [opendevise/asciidoc-parsing-lab](https://github.com/opendevise/asciidoc-parsing-lab) - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [ggrossetie/asciidoctor-geist](https://github.com/ggrossetie/asciidoctor-geist) - Asciidoctor.js converter based on Geist UI
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
@@ -626,6 +629,7 @@
 
 ## Ruby 
 
+- [Shopify/better-html](https://github.com/Shopify/better-html) - Better HTML for Rails
 - [kojix2/icalmaker](https://github.com/kojix2/icalmaker) - 
 - [ruby/tracer](https://github.com/ruby/tracer) - Outputs a source level execution trace of a Ruby program.
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
@@ -703,7 +707,7 @@
 - [Shopify/measured-rails](https://github.com/Shopify/measured-rails) - Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
-- [AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui) - Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-install any prerequisites.
+- [AndyObtiva/glimmer-dsl-libui](https://github.com/AndyObtiva/glimmer-dsl-libui) - Glimmer DSL for LibUI - Prerequisite-Free Ruby Desktop Development Cross-Platform Native GUI Library - The Quickest Way From Zero To GUI - If You Liked Shoes, You'll Love Glimmer! - No need to pre-ins
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [chrisseaton/rhizome](https://github.com/chrisseaton/rhizome) - A JIT for Ruby, implemented in pure Ruby
 - [enderahmetyurt/turkish_banks](https://github.com/enderahmetyurt/turkish_banks) - All Turkish Banks and Their Branches
@@ -771,6 +775,8 @@
 
 ## Rust 
 
+- [pop-os/cosmic-settings-daemon](https://github.com/pop-os/cosmic-settings-daemon) - 
+- [pop-os/cosmic-notifications](https://github.com/pop-os/cosmic-notifications) - 
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -801,7 +807,6 @@
 - [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) - 
 - [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
 - [pop-os/dbus-settings-bindings](https://github.com/pop-os/dbus-settings-bindings) - Rust bindings for D-Bus settings interfaces
-- [pop-os/cosmic-theme](https://github.com/pop-os/cosmic-theme) - WIP
 - [pop-os/mpris2-zbus](https://github.com/pop-os/mpris2-zbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
 - [pop-os/launch-pad](https://github.com/pop-os/launch-pad) - Automatic process management library for Rust
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
@@ -926,7 +931,6 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
