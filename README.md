@@ -155,6 +155,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Dockerfile 
 
@@ -593,7 +594,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [ciscorn/ldoce5viewer](https://github.com/ciscorn/ldoce5viewer) - ⚠️ This software is no longer actively maintained -- Fast, free dictionary viewer for the Longman Dictionary of Contemporary English (LDOCE) 5th ed.
@@ -627,6 +628,10 @@
 
 ## Ruby 
 
+- [janlelis/wirb](https://github.com/janlelis/wirb) - Ruby Object Inspection for IRB
+- [janlelis/clipboard](https://github.com/janlelis/clipboard) - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
+- [janlelis/interactive_editor](https://github.com/janlelis/interactive_editor) - interactive editor in irb
+- [janlelis/debugging](https://github.com/janlelis/debugging) - Improve your Print Debugging
 - [Shopify/better-html](https://github.com/Shopify/better-html) - Better HTML for Rails
 - [kojix2/icalmaker](https://github.com/kojix2/icalmaker) - 
 - [ruby/tracer](https://github.com/ruby/tracer) - Outputs a source level execution trace of a Ruby program.
@@ -930,7 +935,6 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
