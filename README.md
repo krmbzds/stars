@@ -62,7 +62,7 @@
 
 ## Assembly 
 
-- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - An approachable introduction to Assembly
+- [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - 📖 An approachable introduction to Assembly.
 
 ## Batchfile 
 
@@ -628,6 +628,8 @@
 
 ## Ruby 
 
+- [validates-email-format-of/validates_email_format_of](https://github.com/validates-email-format-of/validates_email_format_of) - Validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
+- [devise-security/devise-security](https://github.com/devise-security/devise-security) - A security extension for devise, meeting industry-standard security demands for web applications.
 - [janlelis/wirb](https://github.com/janlelis/wirb) - Ruby Object Inspection for IRB
 - [janlelis/clipboard](https://github.com/janlelis/clipboard) - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
 - [janlelis/interactive_editor](https://github.com/janlelis/interactive_editor) - interactive editor in irb
@@ -922,7 +924,7 @@
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
