@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [clarkmcc/chitchat](https://github.com/clarkmcc/chitchat) - A simple LLM chat front-end that makes it easy to find, download, and mess around with models on your local machine.
 - [ggrossetie/asciidoctor-ipython](https://github.com/ggrossetie/asciidoctor-ipython) - 
 - [opendevise/asciidoc-parsing-lab](https://github.com/opendevise/asciidoc-parsing-lab) - An incubator for the development of a grammar formalism and parser for the AsciiDoc Language.
@@ -583,7 +584,7 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
-- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -641,6 +642,7 @@
 
 ## Ruby 
 
+- [enquo/active_enquo](https://github.com/enquo/active_enquo) - ActiveRecord extension for encrypted query operations
 - [ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby) - High speed text tokenization for Ruby
 - [rack/rack-attack](https://github.com/rack/rack-attack) - Rack middleware for blocking & throttling
 - [ankane/authtrail](https://github.com/ankane/authtrail) - Track Devise login activity
@@ -799,6 +801,8 @@
 
 ## Rust 
 
+- [enquo/pg_enquo](https://github.com/enquo/pg_enquo) - Postgres extension to allow encrypted query operations
+- [quambene/bogrep](https://github.com/quambene/bogrep) - Grep your bookmarks
 - [dundargoc/vim10jit](https://github.com/dundargoc/vim10jit) - 
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [dundargoc/nvim-docs-bot](https://github.com/dundargoc/nvim-docs-bot) - 
