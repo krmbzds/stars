@@ -182,7 +182,7 @@
 
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire, now in Neovim
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
 ## GDScript 
@@ -484,7 +484,7 @@
 
 ## Others 
 
-- [neovim/neovim-releases](https://github.com/neovim/neovim-releases) - 
+- [neovim/neovim-releases](https://github.com/neovim/neovim-releases) - Unsupported Nvim releases
 - [TodePond/DreamBerd---e-acc](https://github.com/TodePond/DreamBerd---e-acc) - perfect programming language
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation frontends, models, and jargon.
@@ -911,6 +911,7 @@
 
 ## Shell 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
