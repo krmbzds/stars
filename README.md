@@ -487,7 +487,7 @@
 ## Others 
 
 - [neovim/neovim-releases](https://github.com/neovim/neovim-releases) - Unsupported Nvim releases
-- [TodePond/DreamBerd---e-acc](https://github.com/TodePond/DreamBerd---e-acc) - perfect programming language
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [Crataco/ai-guide](https://github.com/Crataco/ai-guide) - A guide for FOSS text generation frontends, models, and jargon.
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
