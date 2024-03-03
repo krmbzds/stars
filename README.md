@@ -80,7 +80,6 @@
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [oggy/looksee](https://github.com/oggy/looksee) - Supercharged method introspection in IRB
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -118,7 +117,7 @@
 
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
@@ -194,6 +193,7 @@
 
 ## Go 
 
+- [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -322,7 +322,6 @@
 - [Tafkas/solarpi](https://github.com/Tafkas/solarpi) - A RaspberryPi based, Flask powered photovoltaic monitor
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [exupero/islands](https://github.com/exupero/islands) - An island generator
-- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [left-pad/left-pad](https://github.com/left-pad/left-pad) - :arrow_left: String left pad -- deprecated, use String​.prototype​.pad​Start()
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -487,7 +486,7 @@
 
 ## Nix 
 
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## OpenSCAD 
 
@@ -931,6 +930,7 @@
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
@@ -954,6 +954,7 @@
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [kernelslacker/linux-historic-scripts](https://github.com/kernelslacker/linux-historic-scripts) - scripts to recreate a git archive of pre-git era kernel snapshots.
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
@@ -974,6 +975,7 @@
 
 ## TypeScript 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [boukestam/cell](https://github.com/boukestam/cell) - 
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
