@@ -36,7 +36,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
-- [Nix](#nix)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -80,6 +79,7 @@
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [abb128/april-asr](https://github.com/abb128/april-asr) - Speech-to-text library in C
 - [oggy/looksee](https://github.com/oggy/looksee) - Supercharged method introspection in IRB
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -245,6 +245,7 @@
 - [asciidoctor/asciidoctor-reveal.js](https://github.com/asciidoctor/asciidoctor-reveal.js) - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 
@@ -486,10 +487,6 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 
-## Nix 
-
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
-
 ## OpenSCAD 
 
 - [andimoto/keebcu](https://github.com/andimoto/keebcu) - Keyboard Customizer
@@ -612,7 +609,7 @@
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A CLI for managing offline documentation for Zeal.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
@@ -665,7 +662,7 @@
 
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [yabeda-rb/yabeda-prometheus](https://github.com/yabeda-rb/yabeda-prometheus) - Adapter to expose metrics collected by Yabeda plugins to Prometheus
-- [basecamp/solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
+- [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store
 - [itamae-kitchen/mitamae](https://github.com/itamae-kitchen/mitamae) - mitamae is a fast, simple, and single-binary configuration management tool with a DSL like Chef
 - [enquo/active_enquo](https://github.com/enquo/active_enquo) - ActiveRecord extension for encrypted query operations
@@ -684,7 +681,7 @@
 - [ruby/tracer](https://github.com/ruby/tracer) - Outputs a source level execution trace of a Ruby program.
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N+1 queries auto-detection with zero false positives / false negatives
-- [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP extension for Rails
+- [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails
 - [st0012/mini-debugger](https://github.com/st0012/mini-debugger) - 
 - [MaximeD/gem_updater](https://github.com/MaximeD/gem_updater) - Update gems in your Gemfile and fetch their changelogs
 - [acuppy/faker_shorthand](https://github.com/acuppy/faker_shorthand) - 
@@ -932,7 +929,6 @@
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
@@ -1002,7 +998,7 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
