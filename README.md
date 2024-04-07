@@ -146,7 +146,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [BerkeleyTrue/dotfiles](https://github.com/BerkeleyTrue/dotfiles) - My workstation dotfiles
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
@@ -355,6 +355,8 @@
 
 ## Lua 
 
+- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - UNOFFICIAL Tailwind CSS integration and tooling for Neovim
+- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) - Have FUN builiding Ruby on Rails applications with Neovim!
@@ -661,6 +663,7 @@
 
 ## Ruby 
 
+- [pocke/activerecord-originator](https://github.com/pocke/activerecord-originator) - A RubyGem adding SQL comments to indicate the origin of the SQL
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [yabeda-rb/yabeda-prometheus](https://github.com/yabeda-rb/yabeda-prometheus) - Adapter to expose metrics collected by Yabeda plugins to Prometheus
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
@@ -675,7 +678,6 @@
 - [devise-security/devise-security](https://github.com/devise-security/devise-security) - A security extension for devise, meeting industry-standard security demands for web applications.
 - [janlelis/wirb](https://github.com/janlelis/wirb) - Ruby Object Inspection for IRB
 - [janlelis/clipboard](https://github.com/janlelis/clipboard) - Ruby access to the clipboard on Windows, Linux, macOS, Java, Cygwin, and WSL 📋︎
-- [janlelis/interactive_editor](https://github.com/janlelis/interactive_editor) - interactive editor in irb
 - [janlelis/debugging](https://github.com/janlelis/debugging) - Improve your Print Debugging
 - [Shopify/better-html](https://github.com/Shopify/better-html) - Better HTML for Rails
 - [kojix2/icalmaker](https://github.com/kojix2/icalmaker) - 
@@ -892,6 +894,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [niklaswimmer/aw-watcher.nvim](https://github.com/niklaswimmer/aw-watcher.nvim) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -927,7 +930,7 @@
 
 ## Shell 
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other hand
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
@@ -973,6 +976,7 @@
 
 ## TypeScript 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [boukestam/cell](https://github.com/boukestam/cell) - 
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
@@ -989,7 +993,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-- [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
