@@ -31,7 +31,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -124,7 +123,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
+- [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [oct0xor/mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
@@ -292,7 +291,7 @@
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 - [bdaase/noannoyance](https://github.com/bdaase/noannoyance) - 
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
-- [ViewComponent/lookbook](https://github.com/ViewComponent/lookbook) - A UI development environment for Ruby on Rails apps ✨
+- [lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) - A UI development environment for Ruby on Rails apps ✨
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -349,10 +348,6 @@
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
 - [MuhammedHasan/restaurant-analyze](https://github.com/MuhammedHasan/restaurant-analyze) - 
-
-## Just 
-
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 ## Kotlin 
 
@@ -912,7 +907,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [ActivityWatch/aw-server-rust](https://github.com/ActivityWatch/aw-server-rust) - High-performance implementation of the ActivityWatch server, written in Rust
@@ -936,6 +931,7 @@
 
 ## Shell 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
@@ -1001,7 +997,7 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and money splitting for groups :money_with_wings:
+- [SFTtech/abrechnung](https://github.com/SFTtech/abrechnung) - Payment tracking and money splitting for groups 💸
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
