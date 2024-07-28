@@ -638,7 +638,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [gridsync/gridsync](https://github.com/gridsync/gridsync) - Synchronize local directories with Tahoe-LAFS storage grids
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [emre/PharmacyOnDuty](https://github.com/emre/PharmacyOnDuty) - Pharmacy *on duty* api for Istanbul.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
@@ -719,7 +719,7 @@
 - [ruby-syntax-tree/syntax_tree](https://github.com/ruby-syntax-tree/syntax_tree) - Interact with the Ruby syntax tree
 - [Shopify/ruby-style-guide](https://github.com/Shopify/ruby-style-guide) - Shopify’s Ruby Style Guide
 - [rubocop/rubocop-performance](https://github.com/rubocop/rubocop-performance) - An extension of RuboCop focused on code performance checks.
-- [Shopify/erb-lint](https://github.com/Shopify/erb-lint) - Lint your ERB or HTML files
+- [Shopify/erb_lint](https://github.com/Shopify/erb_lint) - Lint your ERB or HTML files
 - [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm) - ruby.wasm is a collection of WebAssembly ports of the CRuby.
 - [ruby/net-http](https://github.com/ruby/net-http) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
@@ -989,7 +989,7 @@
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
