@@ -328,7 +328,6 @@
 - [left-pad/left-pad](https://github.com/left-pad/left-pad) - :arrow_left: String left pad -- deprecated, use String​.prototype​.pad​Start()
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [magwo/elevatorsaga](https://github.com/magwo/elevatorsaga) - The elevator programming game!
-- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -505,7 +504,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [SterlingHooten/borg-backup-exclusions-macos](https://github.com/SterlingHooten/borg-backup-exclusions-macos) - Exclusion rules for Borg Backup catered to macOS
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [Malix-off/awesome_atomic](https://github.com/Malix-off/awesome_atomic) - An awesome curated knowledge-base about atomic systems
+- [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) - An awesome curated knowledge-base about atomic systems
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [st0012/slides](https://github.com/st0012/slides) - 
 - [ruby/dev-meeting-log](https://github.com/ruby/dev-meeting-log) - Log archive for monthly Developers Meeting
@@ -735,7 +734,7 @@
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
-- [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files. Previously named "VanDAM"
+- [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
 - [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
@@ -1012,6 +1011,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 
 ## Vala 
 
