@@ -186,6 +186,7 @@
 
 ## Fennel 
 
+- [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) - 🃏 At last! A way to play card games on your computer!
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire, now in Neovim
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
@@ -353,6 +354,7 @@
 
 ## Lua 
 
+- [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - An extension for telescope.nvim that allows you to switch between headings
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
@@ -874,7 +876,7 @@
 - [pop-os/cosmic-osd](https://github.com/pop-os/cosmic-osd) - 
 - [pop-os/cosmic-time](https://github.com/pop-os/cosmic-time) - Animation Library for https://github.com/iced-rs/iced and https://github.com/pop-os/cosmic-epoch
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
-- [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
+- [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
 - [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
 - [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Addtional wayland-protocols used by the COSMIC desktop environment
 - [pop-os/cosmic-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
