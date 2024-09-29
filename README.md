@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -565,6 +566,7 @@
 
 ## PHP 
 
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [monicahq/chandler](https://github.com/monicahq/chandler) - The upcoming brand new version of Monica. Not suitable for production use at the moment.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
@@ -582,6 +584,7 @@
 
 ## Python 
 
+- [AMD-AIG-AIMA/AMD-LLM](https://github.com/AMD-AIG-AIMA/AMD-LLM) - 
 - [Kharacternyk/paper-tactics](https://github.com/Kharacternyk/paper-tactics) - The backend for www.paper-tactics.com — a web application to play a pen-and-paper game with other people around the world.
 - [indestructible-type/Drafting](https://github.com/indestructible-type/Drafting) - An origonal Monospaced font
 - [wootfish/theseus.dht](https://github.com/wootfish/theseus.dht) - A distributed hash table with unusually strong security properties
@@ -1020,6 +1023,7 @@
 
 ## Vala 
 
+- [louis77/tuner](https://github.com/louis77/tuner) - GNU/Linux app to discover and play internet radio stations
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 ## Verilog 
