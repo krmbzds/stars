@@ -241,6 +241,7 @@
 
 ## HTML 
 
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [tinytoolkit/tinytoolk.it](https://github.com/tinytoolkit/tinytoolk.it) - 
 - [kmille/freetar](https://github.com/kmille/freetar) - freetar  - an alternative frontend to ultimate-guitar.com
 - [aviflombaum/shadcn-rails](https://github.com/aviflombaum/shadcn-rails) - 
@@ -397,7 +398,7 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [sindrets/dotfiles](https://github.com/sindrets/dotfiles) - 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
-- [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.
+- [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - ☕ Dead simple yet super extensible zen mode plugin to protect your neck.
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [hrsh7th/nvim-gtd](https://github.com/hrsh7th/nvim-gtd) - LSP's Go to definition plugin for neovim.
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
@@ -673,6 +674,7 @@
 
 ## Ruby 
 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [JustinLove/sqrl_auth](https://github.com/JustinLove/sqrl_auth) - A Ruby implementation of core SQRL alorithims used when challenging, signing, and verifying SQRL authentication requests
 - [pacso/aoc_rb](https://github.com/pacso/aoc_rb) - Ruby toolkit for Advent of Code
 - [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source.
