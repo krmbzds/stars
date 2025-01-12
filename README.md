@@ -165,8 +165,8 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
 
@@ -242,6 +242,7 @@
 
 ## HTML 
 
+- [paraxialio/Gem-Shop](https://github.com/paraxialio/Gem-Shop) - Vulnerable Ruby on Rails project for security education
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [tinytoolkit/tinytoolk.it](https://github.com/tinytoolkit/tinytoolk.it) - 
 - [kmille/freetar](https://github.com/kmille/freetar) - freetar  - an alternative frontend to ultimate-guitar.com
@@ -677,6 +678,7 @@
 
 ## Ruby 
 
+- [benpickles/parklife](https://github.com/benpickles/parklife) - Render a Rack app (Rails/Sinatra/etc) to a static build so it can be served by Netlify, Now, GitHub Pages, S3, or any other web server.
 - [jeremyevans/kaeruera](https://github.com/jeremyevans/kaeruera) - Simple Error Tracker for Ruby
 - [jeremyevans/by](https://github.com/jeremyevans/by) - Ruby Library Preloader
 - [jeremyevans/ruby-refrigerator](https://github.com/jeremyevans/ruby-refrigerator) - Freeze all core ruby classes
@@ -996,7 +998,7 @@
 
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
-- [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
+- [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## TeX 
 
