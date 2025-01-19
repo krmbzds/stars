@@ -8,7 +8,6 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -69,10 +68,6 @@
 ## Batchfile 
 
 - [Fortyseven/RA_1993](https://github.com/Fortyseven/RA_1993) - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
-
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -210,7 +205,6 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -242,6 +236,7 @@
 
 ## HTML 
 
+- [eladg/ffmpeg-by-example](https://github.com/eladg/ffmpeg-by-example) - 
 - [paraxialio/Gem-Shop](https://github.com/paraxialio/Gem-Shop) - Vulnerable Ruby on Rails project for security education
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [tinytoolkit/tinytoolk.it](https://github.com/tinytoolkit/tinytoolk.it) - 
@@ -324,6 +319,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [Nickardson/shenzhen-solitaire](https://github.com/Nickardson/shenzhen-solitaire) - 
 - [ds300/jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -509,6 +505,7 @@
 
 ## Others 
 
+- [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [mieko/sr-captcha](https://github.com/mieko/sr-captcha) - Article describing how the technical means by which Silk Road 1's captcha was broken.
 - [limentic/the-hephaestus-mod](https://github.com/limentic/the-hephaestus-mod) - Transform your Apple Magic Keyboard into a mechanical keyboard. Not affiliated with Apple.
 - [neovim/neovim-releases](https://github.com/neovim/neovim-releases) - Unsupported Nvim releases
@@ -908,7 +905,7 @@
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
 - [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
-- [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Addtional wayland-protocols used by the COSMIC desktop environment
+- [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Additional wayland-protocols used by the COSMIC desktop environment
 - [pop-os/cosmic-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
 - [pop-os/cosmic-workspaces-epoch](https://github.com/pop-os/cosmic-workspaces-epoch) - 
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
@@ -1023,6 +1020,7 @@
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
@@ -1053,7 +1051,7 @@
 
 ## Verilog 
 
-- [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑
+- [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 
 ## Vim Script 
 
