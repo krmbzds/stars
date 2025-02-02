@@ -8,7 +8,6 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -70,12 +69,9 @@
 
 - [Fortyseven/RA_1993](https://github.com/Fortyseven/RA_1993) - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
 
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
-
 ## C 
 
+- [pebble-dev/RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -324,6 +320,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [Nickardson/shenzhen-solitaire](https://github.com/Nickardson/shenzhen-solitaire) - 
 - [ds300/jetzt](https://github.com/ds300/jetzt) - Speed reader extension for chrome
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -521,7 +518,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [SterlingHooten/borg-backup-exclusions-macos](https://github.com/SterlingHooten/borg-backup-exclusions-macos) - Exclusion rules for Borg Backup catered to macOS
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) - An awesome curated knowledge-base about atomic systems
+- [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [st0012/slides](https://github.com/st0012/slides) - 
 - [ruby/dev-meeting-log](https://github.com/ruby/dev-meeting-log) - Log archive for monthly Developers Meeting
