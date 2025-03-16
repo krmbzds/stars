@@ -52,7 +52,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -76,6 +75,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
+- [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
@@ -252,6 +252,7 @@
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [asciidoctor/asciidoctor-reveal.js](https://github.com/asciidoctor/asciidoctor-reveal.js) - :crystal_ball: A reveal.js converter for Asciidoctor and Asciidoctor.js. Write your slides in AsciiDoc!
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
@@ -304,7 +305,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [osolmaz/microtonal-piano](https://github.com/osolmaz/microtonal-piano) - A digital instrument inspired by piano and kanun
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -530,7 +531,6 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
@@ -792,6 +792,7 @@
 - [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - Timeouts for popular Ruby gems
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
+- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [sarslanoglu/turkish_cities](https://github.com/sarslanoglu/turkish_cities) - List and find Turkish cities via name, district name, post code, plate number etc.
@@ -980,7 +981,6 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [mvallim/kubernetes-under-the-hood](https://github.com/mvallim/kubernetes-under-the-hood) - This tutorial is someone planning to install a Kubernetes cluster and wants to understand how everything fits together.
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -1050,10 +1050,6 @@
 
 - [louis77/tuner](https://github.com/louis77/tuner) - GNU/Linux app to discover and play internet radio stations
 - [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-
-## Verilog 
-
-- [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
 
 ## Vim Script 
 
