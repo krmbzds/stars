@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
@@ -263,6 +264,7 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 
 ## Handlebars 
 
@@ -292,7 +294,7 @@
 
 ## JavaScript 
 
-- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
@@ -307,7 +309,7 @@
 - [neo4j-documentation/asciidoctor-jupyter](https://github.com/neo4j-documentation/asciidoctor-jupyter) - A Jupyter converter for Asciidoctor.js. Write your Notebook in AsciiDoc!
 - [bdaase/noannoyance](https://github.com/bdaase/noannoyance) - 
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
-- [lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) - A UI development environment for Ruby on Rails apps ✨
+- [lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) - A UI development environment for Ruby on Rails apps
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -599,6 +601,7 @@
 
 ## Python 
 
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -687,6 +690,7 @@
 
 ## Ruby 
 
+- [czhu12/canine](https://github.com/czhu12/canine) - Power of Kubernetes, Simplicity of Heroku
 - [lucascaton/enumerate_it](https://github.com/lucascaton/enumerate_it) - Enumerations for Ruby with some magic powers! 🎩
 - [excid3/receipts](https://github.com/excid3/receipts) - Easy receipts and invoices for your Ruby on Rails applications
 - [benpickles/parklife](https://github.com/benpickles/parklife) - Render a Rack app (Rails/Sinatra/etc) to a static build so it can be served by Netlify, Now, GitHub Pages, S3, or any other web server.
@@ -862,6 +866,8 @@
 
 ## Rust 
 
+- [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
@@ -958,7 +964,6 @@
 - [portier/portier-broker](https://github.com/portier/portier-broker) - Portier Broker reference implementation, written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 
