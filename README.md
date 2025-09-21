@@ -297,7 +297,7 @@
 
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual Erlang Prompting for an AI world - inspired by Node-RED
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [gorisanson/pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
@@ -693,6 +693,8 @@
 
 ## Ruby 
 
+- [excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf) - A PDF generator for Rails using Ferrum & headless Chrome
+- [jesseduffield/lazy_migrate](https://github.com/jesseduffield/lazy_migrate) - A little terminal UI for managing schema migrations in rails
 - [czhu12/canine](https://github.com/czhu12/canine) - Power of Kubernetes, Simplicity of Heroku
 - [lucascaton/enumerate_it](https://github.com/lucascaton/enumerate_it) - Enumerations for Ruby with some magic powers! 🎩
 - [excid3/receipts](https://github.com/excid3/receipts) - Easy receipts and invoices for your Ruby on Rails applications
@@ -720,7 +722,7 @@
 - [janlelis/wirb](https://github.com/janlelis/wirb) - Ruby Object Inspection for IRB
 - [janlelis/clipboard](https://github.com/janlelis/clipboard) - Ruby access to the clipboard on Windows, Linux, macOS, Java, WSL and more platforms 📋︎
 - [janlelis/debugging](https://github.com/janlelis/debugging) - Improve your Print Debugging
-- [Shopify/better-html](https://github.com/Shopify/better-html) - Better HTML for Rails
+- [Shopify/better-html](https://github.com/Shopify/better-html) - (DEPRECATED) Better HTML for Rails
 - [kojix2/icalmaker](https://github.com/kojix2/icalmaker) - 
 - [ruby/tracer](https://github.com/ruby/tracer) - Outputs a source level execution trace of a Ruby program.
 - [isene/rsh](https://github.com/isene/rsh) - Ruby SHell
@@ -1033,6 +1035,7 @@
 
 ## TypeScript 
 
+- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [boukestam/cell](https://github.com/boukestam/cell) - Simulating a minimal cell in the browser
