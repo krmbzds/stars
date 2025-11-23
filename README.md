@@ -213,7 +213,7 @@
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
-- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -256,7 +256,7 @@
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
@@ -607,7 +607,7 @@
 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
-- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOC, DOCX, HTML, RTF, TXT, and MD.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -634,14 +634,14 @@
 - [TenderOwl/Frog](https://github.com/TenderOwl/Frog) - Extract text from any image, video, QR Code and etc.
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [DartLazer/WhoIsHomeUI](https://github.com/DartLazer/WhoIsHomeUI) - A webapp that scans your network and allows you to track hosts, give email updates and possibly more!
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool built with Python and Django. Leveraging m4b-merge for audiobook standardization and editing. Ideal for enhancing audiobook library management.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [binhtran432k/dotfiles.v1](https://github.com/binhtran432k/dotfiles.v1) - 
+- [binhtddev/dotfiles.v1](https://github.com/binhtddev/dotfiles.v1) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Morpheus636/zeal-cli](https://github.com/Morpheus636/zeal-cli) - A CLI for managing offline documentation for Zeal.
@@ -877,7 +877,6 @@
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Next-gen very fast Ruby tooling
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [felixmaker/thunk](https://github.com/felixmaker/thunk) - Build Rust program to support Windows XP, Vista and more
-- [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.”
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
@@ -974,6 +973,7 @@
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [portier/portier-broker](https://github.com/portier/portier-broker) - Portier Broker reference implementation, written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1010,7 +1010,6 @@
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [kernelslacker/linux-historic-scripts](https://github.com/kernelslacker/linux-historic-scripts) - scripts to recreate a git archive of pre-git era kernel snapshots.
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 
@@ -1040,6 +1039,7 @@
 ## TypeScript 
 
 - [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
+- [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [boukestam/cell](https://github.com/boukestam/cell) - Simulating a minimal cell in the browser
@@ -1052,7 +1052,7 @@
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
