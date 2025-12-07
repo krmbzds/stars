@@ -140,7 +140,7 @@
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [OpenFodder/openfodder](https://github.com/OpenFodder/openfodder) - Open Fodder: An open source port of Cannon Fodder
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -169,7 +169,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
@@ -298,7 +298,7 @@
 
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - 1/ Visual 2/ low-AI-code, high-understanding-code 3/ flow-based programming environment for Erlang, inspired by Node-RED.
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [gorisanson/pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball reimplemented in JavaScript by reverse engineering the original game
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
@@ -698,7 +698,7 @@
 
 - [excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf) - A PDF generator for Rails using Ferrum & headless Chrome
 - [jesseduffield/lazy_migrate](https://github.com/jesseduffield/lazy_migrate) - A little terminal UI for managing schema migrations in rails
-- [CanineHQ/canine](https://github.com/CanineHQ/canine) - Power of Kubernetes, Simplicity of Heroku
+- [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [lucascaton/enumerate_it](https://github.com/lucascaton/enumerate_it) - Enumerations for Ruby with some magic powers! 🎩
 - [excid3/receipts](https://github.com/excid3/receipts) - Easy receipts and invoices for your Ruby on Rails applications
 - [benpickles/parklife](https://github.com/benpickles/parklife) - 🌳 Render a Rack app (Rails/Sinatra/etc) to a static build so it can be served by Netlify, Now, GitHub Pages, S3, or any other web server
@@ -1019,6 +1019,7 @@
 
 ## Swift 
 
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpacks.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
