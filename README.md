@@ -215,7 +215,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -256,7 +256,7 @@
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [excid3/railshackathon.com](https://github.com/excid3/railshackathon.com) - The RailsHackathon.com website
-- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, sandboxed, and open-source online code execution system for humans and AI.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [mislav/poignant-guide](https://github.com/mislav/poignant-guide) - Why's Poignant Guide to Ruby
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
@@ -318,7 +318,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [osolmaz/microtonal-piano](https://github.com/osolmaz/microtonal-piano) - A digital instrument inspired by piano and kanun
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -817,7 +817,7 @@
 - [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - Timeouts for popular Ruby gems
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
-- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
+- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios that look like desktop operating systems
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [sarslanoglu/turkish_cities](https://github.com/sarslanoglu/turkish_cities) - List and find Turkish cities via name, district name, post code, plate number etc.
@@ -942,7 +942,7 @@
 - [pop-os/cosmic-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
 - [pop-os/cosmic-workspaces-epoch](https://github.com/pop-os/cosmic-workspaces-epoch) - 
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
-- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
+- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
 - [pop-os/cosmic-session](https://github.com/pop-os/cosmic-session) - Session manager for the COSMIC desktop environment
 - [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 - [pop-os/cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel
