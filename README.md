@@ -940,7 +940,7 @@
 - [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
 - [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
 - [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Additional wayland-protocols used by the COSMIC desktop environment
-- [pop-os/cosmic-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
+- [pop-os/cosmic-app-library](https://github.com/pop-os/cosmic-app-library) - WIP
 - [pop-os/cosmic-workspaces-epoch](https://github.com/pop-os/cosmic-workspaces-epoch) - 
 - [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
 - [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
