@@ -296,7 +296,6 @@
 ## JavaScript 
 
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
-- [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [gorisanson/pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball reimplemented in JavaScript by reverse engineering the original game
@@ -318,7 +317,6 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
-- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
@@ -590,6 +588,7 @@
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 - [monicahq/chandler](https://github.com/monicahq/chandler) - The upcoming brand new version of Monica. Not suitable for production use at the moment.
+- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
@@ -788,11 +787,11 @@
 - [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
-- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant :ukraine:
 - [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
 - [jaysonvirissimo/active_recall](https://github.com/jaysonvirissimo/active_recall) - Turn your ActiveRecord models into smart flashcards
 - [AaronC81/sord](https://github.com/AaronC81/sord) - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
-- [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby
 - [soutaro/steep](https://github.com/soutaro/steep) - Static type checker for Ruby
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) - Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
@@ -1041,6 +1040,7 @@
 
 - [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 - [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
+- [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [boukestam/cell](https://github.com/boukestam/cell) - Simulating a minimal cell in the browser
