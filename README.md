@@ -104,7 +104,7 @@
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
-- [Chaotic-Entity/Dactyl-Manuform-6x6](https://github.com/Chaotic-Entity/Dactyl-Manuform-6x6) - Layout and files changed for the Dactyl Manuform 6x6 keyboard
+- [A1d4nW/Dactyl-Manuform-6x6](https://github.com/A1d4nW/Dactyl-Manuform-6x6) - Layout and files changed for the Dactyl Manuform 6x6 keyboard
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -134,7 +134,7 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [oct0xor/mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [jfedor2/trackbowl-mk2](https://github.com/jfedor2/trackbowl-mk2) - The ball is the trackball
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
@@ -553,7 +553,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [paulbricman/thisrepositorydoesnotexist](https://github.com/paulbricman/thisrepositorydoesnotexist) - A curated list of awesome projects which use Machine Learning to generate synthetic content.
-- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [ankane/secure_rails](https://github.com/ankane/secure_rails) - Rails security best practices
@@ -1038,7 +1038,7 @@
 
 ## TypeScript 
 
-- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
+- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB toolchain.
 - [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [kjk/edna](https://github.com/kjk/edna) - Note taking with super powers
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
