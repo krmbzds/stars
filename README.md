@@ -407,7 +407,6 @@
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [dundargoc/fakedonalds.nvim](https://github.com/dundargoc/fakedonalds.nvim) - A McDonald's inspired theme
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) - Keep clipboard in sync with Neovim without the peformance hit.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - Visual Studio Code inspired breadcrumbs plugin for the Neovim editor
@@ -545,7 +544,6 @@
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [st0012/slides](https://github.com/st0012/slides) - 
 - [ruby/dev-meeting-log](https://github.com/ruby/dev-meeting-log) - Log archive for monthly Developers Meeting
-- [hadronized/this-week-in-neovim-contents](https://github.com/hadronized/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for language specification and discussions.
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
@@ -707,6 +705,7 @@
 
 ## Ruby 
 
+- [matz/spinel](https://github.com/matz/spinel) - 
 - [excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf) - A PDF generator for Rails using Ferrum & headless Chrome
 - [jesseduffield/lazy_migrate](https://github.com/jesseduffield/lazy_migrate) - A little terminal UI for managing schema migrations in rails
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
@@ -885,6 +884,8 @@
 
 ## Rust 
 
+- [duane1024/l123](https://github.com/duane1024/l123) - 
+- [jahala/tilth](https://github.com/jahala/tilth) - Smart(er) code reading for humans and AI agents. Reduces cost per correct answer by ~40% on average. Install: cargo install tilth -or- npx tilth
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
@@ -968,7 +969,6 @@
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
-- [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [niklaswimmer/aw-watcher.nvim](https://github.com/niklaswimmer/aw-watcher.nvim) - 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust. Repo moving to Codeberg: https://codeberg.org/tiffany/rink
