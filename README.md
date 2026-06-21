@@ -75,10 +75,8 @@
 ## C 
 
 - [vindar/SARCASM](https://github.com/vindar/SARCASM) - S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine
-- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [pebble-dev/RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [tillitis/tillitis-key1](https://github.com/tillitis/tillitis-key1) - FPGA verilog and firmware for TKey, the flexible and open USB security key 🔑
@@ -213,6 +211,7 @@
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
@@ -706,6 +705,7 @@
 - [matz/spinel](https://github.com/matz/spinel) - 
 - [excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf) - A PDF generator for Rails using Ferrum & headless Chrome
 - [jesseduffield/lazy_migrate](https://github.com/jesseduffield/lazy_migrate) - A little terminal UI for managing schema migrations in rails
+- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [lucascaton/enumerate_it](https://github.com/lucascaton/enumerate_it) - Enumerations for Ruby with some magic powers! 🎩
 - [excid3/receipts](https://github.com/excid3/receipts) - Easy receipts and invoices for your Ruby on Rails applications
@@ -821,7 +821,7 @@
 - [sbagdat/turkish_numeric](https://github.com/sbagdat/turkish_numeric) - Translate any numeric value into Turkish text, currency notation, or text representation of money.
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for Lib
 - [amancevice/rumrunner](https://github.com/amancevice/rumrunner) - Rake-based utility for building multi-stage Dockerfiles.
-- [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
+- [ddnexus/pagy](https://github.com/ddnexus/pagy) - Agnostic pagination in plain ruby
 - [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - Timeouts for popular Ruby gems
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
@@ -1067,7 +1067,7 @@
 - [fourTheorem/podwhisperer](https://github.com/fourTheorem/podwhisperer) - Pod transcription with OpenAI Whisper and AWS
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [SelfhostedPro/yacht-api](https://github.com/SelfhostedPro/yacht-api) - Backend API for Yacht
