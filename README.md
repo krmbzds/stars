@@ -164,7 +164,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
@@ -236,7 +236,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [akhenakh/kvtiles](https://github.com/akhenakh/kvtiles) - Self hosted maps, PMTiles, MBTiles key value storage and server
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -350,7 +350,7 @@
 - [magwo/elevatorsaga](https://github.com/magwo/elevatorsaga) - The elevator programming game!
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 
 ## Jinja 
 
@@ -617,7 +617,7 @@
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [ivanbelenky/us-routing](https://github.com/ivanbelenky/us-routing) - us cached road graph, freeways, primary and secondary roads
-- [AMD-AGI/AMD-LLM](https://github.com/AMD-AGI/AMD-LLM) - 
+- [AMD-AGI/AMD-LLM](https://github.com/AMD-AGI/AMD-LLM) - Training code and resources for AMD-135M language models on AMD GPUs.
 - [Kharacternyk/paper-tactics](https://github.com/Kharacternyk/paper-tactics) - The backend for www.paper-tactics.com — a web application to play a pen-and-paper game with other people around the world.
 - [indestructible-type/Drafting](https://github.com/indestructible-type/Drafting) - An origonal Monospaced font
 - [wootfish/theseus.dht](https://github.com/wootfish/theseus.dht) - A distributed hash table with unusually strong security properties
