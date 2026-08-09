@@ -912,7 +912,7 @@
 - [dundargoc/nvim-docs-bot](https://github.com/dundargoc/nvim-docs-bot) - 
 - [iAmSomeone2/bios_renamer_for_asus](https://github.com/iAmSomeone2/bios_renamer_for_asus) - Cross-platform Rust implementation of Asus' BIOS renamer utility.
 - [pop-os/cosmic-settings-daemon](https://github.com/pop-os/cosmic-settings-daemon) - 
-- [pop-os/cosmic-notifications](https://github.com/pop-os/cosmic-notifications) - 
+- [pop-os/cosmic-notifications](https://github.com/pop-os/cosmic-notifications) - Layer Shell notifications daemon which integrates with COSMIC.
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -954,7 +954,7 @@
 - [pop-os/cosmic-time](https://github.com/pop-os/cosmic-time) - Animation Library for https://github.com/iced-rs/iced and https://github.com/pop-os/cosmic-epoch
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
-- [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - WIP
+- [pop-os/cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - COSMIC launcher
 - [pop-os/cosmic-protocols](https://github.com/pop-os/cosmic-protocols) - Additional wayland-protocols used by the COSMIC desktop environment
 - [pop-os/cosmic-app-library](https://github.com/pop-os/cosmic-app-library) - COSMIC App Library
 - [pop-os/cosmic-workspaces-epoch](https://github.com/pop-os/cosmic-workspaces-epoch) - 
@@ -1053,7 +1053,7 @@
 
 ## TypeScript 
 
-- [templatical/sdk](https://github.com/templatical/sdk) - Open-source drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside.
+- [templatical/sdk](https://github.com/templatical/sdk) - Drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside. Source-available under FSL-1.1-MIT — free commercially, MIT after 2 years.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
 - [daggerhashimoto/openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
 - [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB toolchain.
