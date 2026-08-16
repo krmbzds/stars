@@ -74,6 +74,7 @@
 
 ## C 
 
+- [cathaysia/tree-sitter-asciidoc](https://github.com/cathaysia/tree-sitter-asciidoc) - asciidoc grammar for tree-sitter
 - [matz/spinel](https://github.com/matz/spinel) - 
 - [vindar/SARCASM](https://github.com/vindar/SARCASM) - S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine
 - [pebble-dev/RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
@@ -352,7 +353,7 @@
 - [magwo/elevatorsaga](https://github.com/magwo/elevatorsaga) - The elevator programming game!
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 
 ## Jinja 
 
@@ -886,6 +887,7 @@
 
 ## Rust 
 
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [duane1024/l123](https://github.com/duane1024/l123) - 
 - [jahala/tilth](https://github.com/jahala/tilth) - Smart(er) code reading for humans and AI agents. Reduces cost per correct answer by ~40% on average. Install: cargo install tilth -or- npx tilth
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
