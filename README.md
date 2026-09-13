@@ -327,12 +327,13 @@
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [osolmaz/microtonal-piano](https://github.com/osolmaz/microtonal-piano) - A digital instrument inspired by piano and kanun
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [excid3/tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [pixeltris/GK6X](https://github.com/pixeltris/GK6X) - Configure keys, macros, and lighting on GK6X keyboards (GK64, GK84, GK61, etc)
@@ -416,7 +417,6 @@
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - Visual Studio Code inspired breadcrumbs plugin for the Neovim editor
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [sindrets/dotfiles](https://github.com/sindrets/dotfiles) - 
@@ -482,7 +482,6 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
@@ -591,7 +590,6 @@
 - [raganwald/presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [vigo/turk-scene-tarihi](https://github.com/vigo/turk-scene-tarihi) - 80'lerin ortasında başlayan, günümüz bilgisayar kültürünün neredeyse başlangıç noktası olan Türk SCENE/DEMOSCENE tarihçesi
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [Squonk42/TL-WR703N](https://github.com/Squonk42/TL-WR703N) - Reverse Engineering work on the TP-LINK TL-WR703N 150M 802.11n Wi-Fi Router
@@ -1014,6 +1012,7 @@
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [utdemir/zsh-up](https://github.com/utdemir/zsh-up) - ZSH integration for the Ultimate Plumber
@@ -1033,6 +1032,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 
 ## Svelte 
 
@@ -1062,6 +1062,8 @@
 
 ## TypeScript 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
+- [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [templatical/sdk](https://github.com/templatical/sdk) - Drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside. Source-available under FSL-1.1-MIT — free commercially, MIT after 2 years.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
 - [daggerhashimoto/openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
