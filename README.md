@@ -800,7 +800,7 @@
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
-- [madelaine-maz/siteinspector](https://github.com/madelaine-maz/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
+- [TripleChecker-HQ/siteinspector](https://github.com/TripleChecker-HQ/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
 - [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) - Find actively maintained & popular open source software libraries for the Ruby programming language
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
